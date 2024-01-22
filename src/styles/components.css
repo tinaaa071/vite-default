@@ -1,0 +1,7 @@
+@layer components {
+    .card {
+        .link {
+            @apply font-bold text-2xl
+        }
+    }
+}
